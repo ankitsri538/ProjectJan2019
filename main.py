@@ -5,6 +5,7 @@ Created on Sun Jan 13 12:49:57 2019
 @author: ankit
 """
 
+#Detail about new song PAL available on YouTube
 
 Song = ": Pal"
 Artist = ": Javed - Mohsin, Arijit Singh, Shreya Ghoshal"
